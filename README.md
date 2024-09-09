@@ -1,6 +1,6 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello</h3>
 
-<h3 align="center">Low-level system engineer/h3>
+<h3 align="center">Low-level system engineer</h3>
 
 <p align="left">
 </p>
